@@ -1,0 +1,2 @@
+Add (load "cumulator.el") into your .emacs init file to use this file.
+Check your key bindings before.
